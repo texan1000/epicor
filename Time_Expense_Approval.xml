@@ -72,7 +72,7 @@
     <Company>99867</Company>
     <ProductID>EP</ProductID>
     <TypeCode>Customization</TypeCode>
-    <Key1>Time_Expense_Approval</Key1>
+    <Key1>Time_Expense_Approval_CHANGE_2</Key1>
     <Key2>App.TimeExpApprovalEntry.TimeExpApprovalForm</Key2>
     <Key3 />
     <Description>* Time_Expense_Approval</Description>
